@@ -1,0 +1,16 @@
+#header {
+}
+
+.controls {
+  background-color: #666;
+  max-width: 29%;
+}
+
+.container {
+  background-color: #444;
+  max-width: 70%;
+}
+
+.row {
+  margin-left: 1em;
+}
